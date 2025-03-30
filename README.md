@@ -2,7 +2,7 @@
 🆓 
 🪟🪟🪟🪟🪟
 
-Windows hasznos tippek magyarul, egyszerűen.
+Windows hasznos tippek magyarul, egyszerűen...<hr>
 ![MicrosoftWindowsXpGIF](https://github.com/user-attachments/assets/04ee81b1-2be0-4aec-a4e1-d5866545edbc)
 
 <hr>
